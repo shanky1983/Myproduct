@@ -1,0 +1,9 @@
+1. Check public IP dependency in application connection string, SSRS, Windows Service for Azure Server. - Kumar
+2. Inactive customer PDF to be downloaded to Local storage. - Shankar
+3. VPN user list to obtained from Suresh. - Shankar (Suresh to share account names)
+4. Disable 'account' which is not part of pay roll. - Shankar
+5. White List of Azure VPN - Shankar / Mohan
+6. Core to be change in LIS Kernel (to be planned) - Suresh / Shankar / Mohan
+7. At LIS Kernel move sales DB, QA DB from SSD to HHD and retire SSD.
+8. Windows & SQL Accounts for Suresh Team. - Shankar. (Suresh to share account names)
+9. SVN structure to be stabilized, Branch should have restriction.- Shankar

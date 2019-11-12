@@ -1,0 +1,11 @@
+https://lissouthindiastorage.blob.core.windows.net/vhds/LIS-SI-APP20170524041417.vhd
+https://lissouthindiastorage.blob.core.windows.net/vhds/LIS-SI-App-01-DataDisk-1.vhd
+https://lissouthindiastorage.blob.core.windows.net/vhds/LIS-SI-App-01-DataDisk-2.vhd
+https://lissistoragefordbbackup.blob.core.windows.net/liskernelfull-backup/LIS-SI-APP-disk3.vhd
+https://lissipremiumstorage.blob.core.windows.net/vhds/LIS-SI-DB0120171017160652.vhd
+https://lissipremiumstorage.blob.core.windows.net/vhds/LIS-SI-DB01-disk-1-20171017160652.vhd
+https://lissipremiumstorage.blob.core.windows.net/vhds/LIS-SI-DB01-disk-2.vhd
+https://lissipremiumstorage.blob.core.windows.net/liskernel-full-backup/LIS-SI-DB01-disk3.vhd
+https://lissipremiumstorage.blob.core.windows.net/vhds/LIS-SI-DB01-disk4.vhd
+https://lissouthindiastorage.blob.core.windows.net/vhds/LIS-SI-SSRS_OS-Disk.vhd
+https://lissouthindiastorage.blob.core.windows.net/vhds/LIS-SI-SSRS-DataDIsk-0.vhd
